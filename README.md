@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MarMarIzadi
+- 👋 Hi, I’m @MarmarIzadi
 - 👀 I’m interested in programming and anything about computer
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on learning programming and Deeplearning
